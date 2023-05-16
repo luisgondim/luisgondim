@@ -1,0 +1,17 @@
+name: Blog Post Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@1.8.4
