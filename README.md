@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋
+
+Hi there ! I'm Luis Gondim, a developer with passion for programming and create new things.
 
 <!--
 **luisgondim/luisgondim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
