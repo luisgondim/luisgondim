@@ -7,7 +7,7 @@ I'm Luis Gondim welcome to my software developmet portifolio,
 (813)465-8235
 luis.gondim@sunnycodesoftware.com
 
-# Experience and hands on experience:
+# Summary:
 Full-Stack Software developer and solution engineer with 7+ years of experience designing and developing software solutions in all software development lifecycle to improve and organize business proccesses.
 
 # Services Catalog
