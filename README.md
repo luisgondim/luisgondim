@@ -3,6 +3,10 @@
 Hello! 
 I'm Luis Gondim welcome to my software developmet portifolio,
 
+# Contact
+(813)465-8235
+luis.gondim@sunnycodesoftware.com
+
 # Experience and hands on experience:
 Full-Stack Software developer and solution engineer with 7+ years of experience designing and developing software solutions in all software development lifecycle to improve and organize business proccesses.
 
@@ -28,8 +32,6 @@ Full-Stack Software developer and solution engineer with 7+ years of experience 
 
 # Technologies
 
-SunnyCode Software Solutions utilizes modern, enterprise-grade technologies to deliver scalable, secure, and maintainable software solutions:
-
 - **Programming Languages**: C#, JavaScript, HTML5, CSS3, SQL
 - **Frameworks & Platforms**: .NET Core, ASP.NET MVC, Entity Framework, Bootstrap
 - **Frontend Development**: Razor Pages, Bootstrap 5, jQuery
@@ -47,8 +49,6 @@ A modern web application designed to support business management by enabling com
 Image:![Nexus Management Image](images/Nx.svg)
 
 Technology: .NET Core and MySQL, Javascript
-
-
 
 # CashCommander App (BETA) 
 A financial controller web application built for both personal and business use. It helps users track, organize, and manage finances efficiently, offering tools for budgeting, expense monitoring, and financial planning—all within a clean and user-friendly interface.
