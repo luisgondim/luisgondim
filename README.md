@@ -1,12 +1,12 @@
 # Luis Gondim
 
-**C# / .NET + React Developer | Enterprise Web Applications | Full-Stack Software Engineer**
+**Full-Stack Software Engineer | C# / .NET | React | Enterprise Web Applications**
 
-I am a software engineer with 7+ years of experience designing, developing, modernizing, and supporting web applications, enterprise business systems, REST APIs, and database-driven platforms.
+I am a software engineer with 7+ years of experience designing, developing, modernizing, and supporting enterprise web applications, REST APIs, database-driven systems, and business workflow platforms.
 
-My main focus is building practical business web applications using **C#, .NET, ASP.NET Core, React, JavaScript, SQL Server, MySQL, and Microsoft Azure**. I work across the full Software Development Life Cycle (SDLC), from user interface design and frontend components to backend APIs, database models, authentication, deployment, and production support.
+My core technical stack includes C#, .NET, ASP.NET Core, React, JavaScript, SQL Server, MySQL, and Microsoft Azure. I work across the full Software Development Life Cycle (SDLC), including frontend development, backend API design, database modeling, authentication, deployment, troubleshooting, documentation, and production support.
 
-I enjoy creating systems that help businesses organize operations, manage workflows, improve visibility, and replace manual processes with structured web-based solutions.
+I focus on building practical software systems that help businesses organize operations, automate workflows, improve visibility, and replace manual processes with reliable web-based applications.
 
 ---
 
@@ -20,14 +20,15 @@ I enjoy creating systems that help businesses organize operations, manage workfl
 
 ## Technical Focus
 
-- Enterprise web application development with React, C#, .NET, and ASP.NET Core
-- Frontend development using React, JavaScript, HTML, CSS, Bootstrap, and component-based UI patterns
-- Backend API development using ASP.NET Core Web API, REST APIs, Entity Framework, and SQL
-- Database-driven application design using SQL Server, MySQL, LINQ, and stored procedures
-- Business workflow systems for orders, invoices, service requests, dashboards, customer records, and reporting
-- Authentication and authorization using Identity, JWT, RBAC, OAuth 2.0, and Microsoft Entra ID
-- Cloud deployment, CI/CD, Git workflows, Azure App Service, GitHub Actions, and Azure DevOps
-- Production support, troubleshooting, debugging, performance diagnostics, and technical documentation
+* Full-stack enterprise web application development using React, C#, .NET, and ASP.NET Core
+* REST API design, backend services, DTOs, service layers, repositories, and structured application architecture
+* Frontend development using React, JavaScript, TypeScript, HTML, CSS, Bootstrap, AG Grid, and reusable UI components
+* Database-driven application design using SQL Server, MySQL, Entity Framework Core, LINQ, stored procedures, and query optimization
+* Business workflow systems for orders, invoices, service requests, dashboards, customer records, reporting, and operational processes
+* Authentication and authorization using ASP.NET Identity, JWT, RBAC, OAuth 2.0, and Microsoft Entra ID
+* Cloud deployment and DevOps using Microsoft Azure, Azure App Service, GitHub Actions, Azure DevOps, CI/CD pipelines, and Git workflows
+* Production support, debugging, troubleshooting, performance diagnostics, technical documentation, and system modernization
+* Code review, technical analysis, issue investigation, and evaluation of software quality, maintainability, and reliability
 
 ---
 
@@ -37,16 +38,13 @@ I enjoy creating systems that help businesses organize operations, manage workfl
 React, JavaScript, TypeScript, HTML5, CSS3, Bootstrap 5, Razor Pages, jQuery, AG Grid
 
 ### Backend Development
-C#, .NET, .NET Core, ASP.NET Core, ASP.NET MVC, ASP.NET Core Web API, REST APIs, Entity Framework, LINQ, Identity Framework
+C#, .NET, .NET Core, ASP.NET Core, ASP.NET MVC, ASP.NET Core Web API, REST APIs, Entity Framework Core, LINQ, ASP.NET Identity
 
 ### Databases
-MS SQL Server, MySQL, Azure SQL Database, Stored Procedures, Database Design, Query Optimization
+SQL Server, MySQL, Azure SQL Database, Stored Procedures, Database Design, Data Modeling, Query Optimization
 
 ### Cloud & DevOps
 Microsoft Azure, Azure App Service, Azure Blob Storage, Azure Virtual Machines, GitHub Actions, Azure DevOps, CI/CD, Docker
-
-### Security
-Microsoft Entra ID, OAuth 2.0, JWT, RBAC, Authentication, Authorization, Secure API Design
 
 ### Tools
 Visual Studio, VS Code, Git, GitHub, Postman, Azure Portal, Jira
@@ -133,19 +131,29 @@ Credential-sharing and access workflow project involving secure user access, app
 
 ## What I Build
 
-- Enterprise web applications
-- Internal business systems
-- Customer portals
-- Order management systems
-- Invoice and reporting modules
-- Dashboard and data grid interfaces
-- REST API integrations
-- Workflow automation tools
-- Database-driven web platforms
-- Cloud-hosted business applications
+* Enterprise web applications
+* Internal business systems
+* Customer portals
+* Order management systems
+* Invoice and reporting modules
+* Dashboard and data grid interfaces
+* REST API integrations
+* Workflow automation tools
+* Database-driven web platforms
+* Cloud-hosted business applications
+* Production support tools and operational software
 
 ---
 
 ## Current Focus
 
-I am currently focused on building enterprise-style web applications using **React, C#, .NET, ASP.NET Core, SQL, Azure, and modern UI patterns**. My goal is to continue improving as a full-stack developer with strong experience in business applications, frontend workflows, backend APIs, database design, and production-ready systems.
+I am currently focused on **AI Engineering and Software Engineering**, combining full-stack development experience with practical AI adoption in modern software systems.
+
+My work focuses on building enterprise-style web applications using **React, C#, .NET, ASP.NET Core, SQL, Azure, LLM-based tools, AI-assisted development workflows, and modern UI patterns**.
+
+I am especially interested in how software engineers are adapting to AI through **Large Language Models (LLMs), prompt engineering, AI-assisted coding, code generation, retrieval-augmented generation (RAG), API-based AI integrations, automation workflows, intelligent developer tools, and AI-powered application features**.
+
+I am also expanding my experience in evaluating AI-generated code, analyzing technical responses, reviewing model reasoning, improving code quality, debugging complex issues, documenting systems, and using AI tools to support software design, refactoring, testing, and development productivity.
+
+My goal is to continue growing as a full-stack software engineer with strong experience in **AI-assisted software development, LLM-based engineering workflows, enterprise applications, frontend development, backend APIs, database design, production support, technical documentation, and software systems that solve real operational problems**.
+
